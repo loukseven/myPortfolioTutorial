@@ -5,7 +5,7 @@ import './App.css';
 import MyNavbar from "./components/my-navbar/mynavbar.component";
 
 const App = () => {
-  //테스트한다
+  //두번째 테스트다테스트한다
   return (
     <div className="App">
       <MyNavbar />
