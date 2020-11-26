@@ -5,9 +5,11 @@ import './App.css';
 import MyNavbar from "./components/my-navbar/mynavbar.component";
 
 const App = () => {
+  //테스트한다
   return (
     <div className="App">
       <MyNavbar />
+
     </div>
   );
 }
